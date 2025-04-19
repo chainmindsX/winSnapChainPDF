@@ -104,7 +104,14 @@ The final EXE will be found in the `dist/` folder.
 
 ## 🏢 About ChainMindsX
 
-**ChainMindsX** is a creative tech company focused on building smart, user-centric software solutions for real-world problems. From automation tools and AI-powered platforms to productivity utilities like WinSnapChainPDF, we empower individuals and businesses through elegant, efficient, and intelligent digital products.
+Absolutely! Here's a refined, professional introduction for your company **ChainMindsX**, tailored to reflect your focus on **data analysis**, **machine learning**, and **AI-based tools** for real-world computer professionals:
+
+---
+
+### 🧠 About ChainMindsX
+
+**ChainMindsX** is a forward-thinking software company specializing in **data analysis**, **machine learning**, and the development of intelligent, AI-powered software agents. Our mission is to empower modern computer professionals by transforming real-world workflows into automated, efficient, and context-aware digital solutions. We harness the power of structured data and machine learning models to build lightweight, offline-capable tools that enhance productivity, reduce distractions, and simplify complex tasks. Whether it’s desktop utilities, smart monitoring agents, or task-specific AI applications, ChainMindsX is dedicated to crafting intelligent tools that blend seamlessly into the daily routines of developers, analysts, and digital creators — bridging the gap between data, decision-making, and day-to-day computing.
+
 
 > 🚀 At ChainMindsX, we believe that productivity doesn't need to be loud — it just needs to be smart.
 
