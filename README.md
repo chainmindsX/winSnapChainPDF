@@ -1,8 +1,3 @@
-Absolutely, Farooq! Here's a **complete, human-style GitHub README.md** for your repository `winSnapChainPDF`, including a strong intro, clear feature breakdown, installation requirements, usage guide, and a solid company intro for **ChainMindsX**. I've added emojis to enhance readability and make it feel approachable yet professional.
-
----
-
-```markdown
 # 📸 WinSnapChainPDF
 
 WinSnapChainPDF is a smart and lightweight Windows utility developed by [ChainMindsX](#about-chainmindsx) that **automatically captures screenshots whenever the Right Ctrl key is pressed**, and seamlessly **compiles them into a PDF** when the system shuts down or goes to sleep. 
