@@ -1,0 +1,5 @@
+pyautogui
+pynput
+Pillow
+pywin32
+winshell
